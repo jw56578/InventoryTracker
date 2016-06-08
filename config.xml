@@ -4,9 +4,9 @@
 		id				= "com.simpleappsgn.icountertap" 
 		version			= "2.0.0">
 		
-	<name>Webpack React Cordova Starter</name>
+	<name>Inventory Tracker</name>
 	
-	<description>What is the most basic code needed to get a phone gap app to work with plugins.</description>
+	<description>Use barcode scanner to constantly scan a bar code repeatedly.</description>
 
 	<icon src="icon.png"/>
 	
